@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Abhay Bhardwaj
-
-A passionate coder from India
-
 - 👀 I’m interested in Web Development and building Applications
 - 🌱 I’m currently learning Flutter Development 
 - 💞️ I’m looking to collaborate on Web Dev projects
