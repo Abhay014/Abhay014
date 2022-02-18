@@ -2,14 +2,14 @@
 - 👀 I’m interested in Web Development and building Applications
 - 🌱 I’m currently learning Flutter Development 
 - 💞️ I’m looking to collaborate on Web Dev projects
-- 📫 How to reach me : Linkedin@Abhay= www.linkedin.com/in/abhay-bhardwaj-6850881ba
+- 📫 How to reach me : [Linkedin@Abhay](www.linkedin.com/in/abhay-bhardwaj-6850881ba)
+- ⚡ Fun fact : I never have any battery in my phone
 
 Skills => {
 
-Web Development:  HTML | CSS | JavaScript | NodeJS |  Express| MongoDB | Cloudinary  
+Web Development:  HTML | CSS | JavaScript | NodeJS |  Express| MongoDB | Cloudinary | Bootstrap 
 
-Other programming languages: Java | Python | R | PHP 
-
+Other programming languages: Java | Python | R | PHP
 
 }
 
