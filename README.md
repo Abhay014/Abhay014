@@ -9,7 +9,7 @@ Skills => {
 
 Web Development:  HTML | CSS | JavaScript | NodeJS |  Express| MongoDB | Cloudinary | Bootstrap 
 
-Other programming languages: Java | Python | R | PHP
+Other programming languages: Java | Python | R | PHP | SQL 
 
 }
 
