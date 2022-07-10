@@ -1,15 +1,15 @@
 - 👋 Hi, I’m Abhay Bhardwaj
 - 👀 I’m interested in Web Development and building Applications
-- 🌱 I’m currently learning Flutter Development 
-- 💞️ I’m looking to collaborate on Web Dev projects
-- 📫 How to reach me : [Linkedin@Abhay](www.linkedin.com/in/abhay-bhardwaj-6850881ba)
-- ⚡ Fun fact : I never have any battery in my phone
+- 🌱 I’m currently learning Flutter and Dart 
+- 💞️ I’m looking for Internships currently
+- 📫 How to reach me : [Linkedin@Abhay](https://www.linkedin.com/in/abhay-bhardwaj-6850881ba/)
+- ⚡ Fun fact : I never have any charge on my phone
 
 Skills => {
 
-Web Development:  HTML | CSS | JavaScript | NodeJS |  Express| MongoDB | Cloudinary | Bootstrap 
+Full Stack MERN Web Development ;
 
-Other programming languages: Java | Python | R | PHP | SQL 
+Other programming languages: Java | Python | R | PHP | SQL ;
 
 }
 
