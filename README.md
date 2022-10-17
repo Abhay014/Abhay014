@@ -9,6 +9,8 @@ Skills => {
 
 Full Stack MERN Web Development ;
 
+Android and iOS development: Flutter || Dart ;
+
 Other programming languages: Java | Python | R | PHP | SQL ;
 
 }
