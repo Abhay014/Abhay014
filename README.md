@@ -5,16 +5,16 @@
 - 📫 How to reach me : [Linkedin@Abhay](https://www.linkedin.com/in/abhay-bhardwaj-6850881ba/)
 - ⚡ Fun fact : My phone is always about to die
 
-Skills = 
-{
+Skills ={
 
-"Backend": [NodeJS, MongoDB, ExpressJS, Webhooks, GraphQL,Apis, microservices, postman, git,   ],
-"Amazon Web Services": [AWS S3, Lambda, SES, DynamoDB, Quantum Ledger DB]
-"frontend": [ ReactJS, HTML, CSS, Bootstrap],
-"Mobile Application": [ flutter, dart ]
-"Other programming languages": [Java , Python , R , PHP , SQL ]
+"Backend": {NodeJS, MongoDB, ExpressJS, Webhooks, GraphQL,Apis, microservices, postman, git   },
+"Amazon Web Services": {AWS S3, Lambda, SES, DynamoDB, Quantum Ledger DB}
+"frontend": {ReactJS, HTML, CSS, Bootstrap},
+"Mobile Application": {flutter, dart },
+"Other programming languages": {Java , Python , R , PHP , SQL }
 
 }
+
 
 Experience = {
 
