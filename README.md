@@ -31,6 +31,7 @@ Experience = {
                           PPO offered"
                        
     },
+
     "Internship 2":{
         "Name":"Astrix Agency",
          "Duration":"July 2022 to nov 2022 (4 months)",
