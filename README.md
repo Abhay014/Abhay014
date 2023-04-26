@@ -1,17 +1,48 @@
 - 👋 Hi, I’m Abhay Bhardwaj
 - 👀 I’m interested in Web Development and building Applications
-- 🌱 I’m currently learning Flutter and Dart 
-- 💞️ I’m looking for Internships currently
+- 🌱 I’m  a Full stack heavy backend developer 
+- 💞️ I’m looking for Full time opportunities.
 - 📫 How to reach me : [Linkedin@Abhay](https://www.linkedin.com/in/abhay-bhardwaj-6850881ba/)
-- ⚡ Fun fact : I never have any charge on my phone
+- ⚡ Fun fact : My phone is always about to die
 
-Skills => {
+Skills = {
 
-Full Stack MERN Web Development ;
+"Backend":[NodeJS, MongoDB, ExpressJS, Webhooks, GraphQL,Apis, microservices, postman, git,   ],
+"Amazon Web Services":[AWS S3, Lambda, SES, DynamoDB, Quantum Ledger DB]
+"frontend":[ ReactJS, HTML, CSS, Bootstrap],
+"Mobile Application":[ flutter, dart ]
+"Other programming languages": [Java , Python , R , PHP , SQL ]
 
-Android and iOS development: Flutter | Dart ;
+}
 
-Other programming languages: Java | Python | R | PHP | SQL ;
+Experience = {
+"Internship 1":{
+        "Name":"Vigorus health tech (founding team member (startup))",
+         "Duration":"December 2022 to present (5 months)",
+         "Stipend":"Rs.7500",
+         "position":"Lead Backend Developer",
+         "Roles and Responsibilities":"Developing Back-end architecture, application, Database
+                management, authorization, authentication, error handling,
+                creating RESTfulAPIs, Micro-services, deployment, documentation,
+                team management, debugging etc."
+          "Achievments":"Implemented Ayushman Bharat health mission’s M1 milestone.
+                          Made over 25 micro services and lambda functions. 
+                          Voted Employee of the month (February).
+                          PPO offered"
+                       
+    },
+    "Internship 2":{
+        "Name":"Astrix Agency",
+         "Duration":"July 2022 to nov 2022 (4 months)",
+         "Stipend":"Rs.8000",
+         "position":"Backend Developer",
+         "Roles and Responsibilities":"Developing Back-end architecture, application, Database
+                management, authorization, authentication, error handling,
+                creating RESTfulAPIs,"
+          "Achievments":"Intership certificate."
+                       
+    }
+
 
 }
 
