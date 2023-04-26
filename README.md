@@ -16,7 +16,8 @@ Skills = {
 }
 
 Experience = {
-"Internship 1":{
+
+      "Internship 1":{
         "Name":"Vigorus health tech (founding team member (startup))",
          "Duration":"December 2022 to present (5 months)",
          "Stipend":"Rs.7500",
