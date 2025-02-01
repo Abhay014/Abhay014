@@ -17,6 +17,7 @@ Skills ={
 
 
 Experience = {
+
  "Job":{
         "Company name":"Orbo.AI",
          "Duration":"July 2023 to Present (1 year 7 months)",
@@ -26,7 +27,8 @@ Experience = {
                 management, authorization, authentication, error handling,
                 creating RESTfulAPIs, Micro-services, deployment, documentation,
                 team management, debugging etc."
-          "Achievments":"Managed 20+ different projects delivering solutions to more than 35 clients. Including Admin portal, recommendation engine, analytics portal etc"
+          "Achievments":"Managed 20+ different projects delivering solutions to more than 35 clients. 
+                         Including Admin portal, recommendation engine, analytics portal etc"
                        
     },
 
