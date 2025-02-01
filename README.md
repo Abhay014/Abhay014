@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhay Bhardwaj
-- 👀 I’m interested in Web Development and building Applications
-- 🌱 I’m  a Full stack heavy backend developer 
-- 💞️ I’m looking for Full time opportunities.
+- 👀 I’m interested developing high end backend solutions.
+- 🌱 I’m a backend developer at Orbo.ai mumbai
+- 💞️ I’m looking for new and exiting challege in my backend journey.
 - 📫 How to reach me : [Linkedin@Abhay](https://www.linkedin.com/in/abhay-bhardwaj-6850881ba/)
 - ⚡ Fun fact : My phone is always about to die
 
