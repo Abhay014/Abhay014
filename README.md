@@ -31,8 +31,6 @@ Experience = {
                          Including Admin portal, recommendation engine, analytics portal etc"
                        
     },
-
-
       "Internship 1":{
         "Name":"Vigorus health tech (founding team member (startup))",
          "Duration":"December 2022 to present (5 months)",
