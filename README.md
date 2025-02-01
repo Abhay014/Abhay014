@@ -7,8 +7,8 @@
 
 Skills ={
 
-      "Backend": {NodeJS, MongoDB, ExpressJS, Webhooks, GraphQL,Apis, microservices, postman, git   },
-      "Amazon Web Services": {AWS S3, Lambda, SES, DynamoDB, Quantum Ledger DB}
+      "Backend": {NodeJS,Typescript MongoDB, ExpressJS, Webhooks, GraphQL,Apis, microservices, postman, git   },
+      "Devops": {AWS , Azure, AWS s3 Lambda, SES, DynamoDB, Quantum Ledger DB}
       "frontend": {ReactJS, HTML, CSS, Bootstrap},
       "Mobile Application": {flutter, dart },
       "Other programming languages": {Java , Python , R , PHP , SQL }
@@ -17,6 +17,19 @@ Skills ={
 
 
 Experience = {
+ "Job":{
+        "Company name":"Orbo.AI",
+         "Duration":"July 2023 to Present (1 year 7 months)",
+         "CTC":"520000",
+         "position":" Backend Developer",
+         "Roles and Responsibilities":"Developing Back-end architecture, application, Database
+                management, authorization, authentication, error handling,
+                creating RESTfulAPIs, Micro-services, deployment, documentation,
+                team management, debugging etc."
+          "Achievments":"Managed 20+ different projects delivering solutions to more than 35 clients. Including Admin portal, recommendation engine, analytics portal etc"
+                       
+    },
+
 
       "Internship 1":{
         "Name":"Vigorus health tech (founding team member (startup))",
