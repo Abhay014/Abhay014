@@ -18,7 +18,7 @@ Skills ={
 
 Experience = {
 
- "Job":{
+       "Job":{
         "Company name":"Orbo.AI",
          "Duration":"July 2023 to Present (1 year 7 months)",
          "CTC":"520000",
@@ -29,8 +29,9 @@ Experience = {
                 team management, debugging etc."
           "Achievments":"Managed 20+ different projects delivering solutions to more than 35 clients. 
                          Including Admin portal, recommendation engine, analytics portal etc"
-                       
     },
+
+    
       "Internship 1":{
         "Name":"Vigorus health tech (founding team member (startup))",
          "Duration":"December 2022 to present (5 months)",
